@@ -25,6 +25,7 @@ class myApp extends StatelessWidget {
             Image.asset(
               'assests/images/home.png',
               width: 300,
+              color:const Color.fromARGB(202, 255, 255, 255),
             ),
             const Padding(
               padding: EdgeInsets.only(top: 50), // Apply top margin of 100
